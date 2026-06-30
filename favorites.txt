@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 fried chicken
 spaghetti
 fries
+=======
+ready player one
+coco
+cars
+turbo
+harry potter
+>>>>>>> movies
